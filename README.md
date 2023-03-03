@@ -1,1 +1,1 @@
-# IntelliTRDE
+# IntelliTRADE
